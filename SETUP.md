@@ -1,1 +1,2 @@
-N/A
+This project is stored via git-lfs. In case it does not work, we uploaded a copy of it to OneDrive: 
+https://unsw-my.sharepoint.com/:u:/g/personal/z5339246_ad_unsw_edu_au/ET8hDLYeUo1AuTB0CTKtwpkB-zmaWwwazMjC8yQbAbAbAQ?e=bohtJ4
